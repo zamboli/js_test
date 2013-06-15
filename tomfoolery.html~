@@ -1,0 +1,14 @@
+<html>
+<body>
+<script>
+
+ var focault = function() {
+     document.writeln("hi!");
+ }
+while 
+
+focault();
+document.writeln(focault.this);
+</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+ var focault = function() {
+     document.writeln("hi!");
+}
+
+focault();

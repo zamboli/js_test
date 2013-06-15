@@ -1,0 +1,7 @@
+var Class = function(){
+    var klass = funtion(){
+	this.init.apply(this,arguments);
+    };
+    klass.prototype.init = function(){};
+    return klass;
+};
